@@ -1,7 +1,7 @@
 # PlacesAPI
 # URL
 https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJmzrzi9Y0K4gRgXUc3sTY7RU&fields=name,rating,formatted_phone_number&key=AIzaSyA5a1FoKmbmQ1djPh6pRx7oiknBf3ACNOE
-# JSON Rturn
+# JSON Return
 ```
 {
    "html_attributions" : [],
