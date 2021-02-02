@@ -4,6 +4,7 @@
 https://maps.googleapis.com/maps/api/directions/json?origin=McMasterUniversity&destination=McMater+University+1280+Main+St+W,+Hamilton,+ON+L8S+4L8&key=AIzaSyA5a1FoKmbmQ1djPh6pRx7oiknBf3ACNOE
 
 # JSON Return
+```
 {
    "geocoded_waypoints" : [
       {
@@ -89,3 +90,4 @@ https://maps.googleapis.com/maps/api/directions/json?origin=McMasterUniversity&d
    ],
    "status" : "OK"
 }
+```
